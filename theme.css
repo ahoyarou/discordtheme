@@ -1,0 +1,11 @@
+.background_cff728 {
+  background-color: var(--background-primary) !important;
+}
+
+.banner_d5fdb1 {
+  background-color: var(--background-primary-alt) !important;
+}
+
+[class^='avatarDecoration_'], [class^='profileEffects_'], .banner_d5fdb1::before {
+    display: none;
+}

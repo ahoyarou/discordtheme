@@ -6,6 +6,6 @@
   background-color: var(--background-primary-alt) !important;
 }
 
-[class^='avatarDecoration_'], [class^='profileEffects_'], .banner_d5fdb1::before {
+[class^='avatarDecoration_'], [class^='profileEffects_'], .banner_d5fdb1::before, .container_fa295b {
     display: none;
 }

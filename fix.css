@@ -1,0 +1,21 @@
+.footer_d71945 {
+    background: var(--bg-overlay-3) !important;
+    /* border-bottom-left-radius: var(--radius) !important;
+    border-bottom-right-radius: var(--radius) !important; */
+    /* margin-top: -8px; */
+}
+
+.itemsContainer_fea3ef {
+    background: var(--bg-overlay-3) !important;
+}
+
+[class*="expandedFolderBackground"] {
+    display: none;
+}
+
+/* .scroller_fea3ef.none_c49869.scrollerBase_c49869 {
+    border-top-left-radius: var(--radius) !important;
+    border-top-right-radius: var(--radius) !important;
+    border-bottom-left-radius: var(--radius) !important;
+    border-bottom-right-radius: var(--radius) !important;
+} */
